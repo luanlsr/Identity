@@ -1,0 +1,75 @@
+# Compiled source
+*.dll
+*.exe
+*.log
+*.so
+*.dylib
+*.pdb
+
+# Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+.vs/*
+
+# Database
+*.mdf
+*.ldf
+*.ndf
+
+# Log files
+*.log
+
+# Entity Framework Migrations
+Migrations/
+
+# DotNet Runtime
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Docker files
+docker-compose.yml
+docker-compose.override.yml
+.dockerignore
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Azure Functions artifacts
+.local.settings.json
+storage/
+
+# Publish folder
+Publish/
+
+# Sensitive information (keys, secrets)
+secrets.json
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+
+# Other untracked files
+**/*.backup
+**/*.cache
